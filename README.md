@@ -83,7 +83,7 @@
 
 ## 21. 주아 Jua
 
-[데모](https://gs.hn/fonts/Jua/demo.html)
+[데모](https://gs.hn/fonts/JuA/demo.html)
 
 ## 22. 기랑해랑 KiRangHaeRang
 
