@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'HanNa11';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('HanNa11.woff2') format('woff2'), 
+        url('HanNa11.woff') format('woff'),
+        url('HanNa11.ttf') format('truetype'),
+        url('HanNa11.otf') format('opentype'),
+        url('HanNa11.eot') format('embedded-opentype');
+}

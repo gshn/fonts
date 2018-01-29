@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'LotteMartHappy';
+    font-style: normal;
+    font-weight: 100;
+    src: local('LotteMartHappy'),
+        url('LotteMartHappyL.woff2') format('woff2'), 
+        url('LotteMartHappyL.woff') format('woff'),
+        url('LotteMartHappyL.ttf') format('truetype'),
+        url('LotteMartHappyL.otf') format('opentype'),
+        url('LotteMartHappyL.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'LotteMartHappy';
+    font-style: normal;
+    font-weight: 400;
+    src: local('LotteMartHappy'),
+        url('LotteMartHappyM.woff2') format('woff2'), 
+        url('LotteMartHappyM.woff') format('woff'),
+        url('LotteMartHappyM.ttf') format('truetype'),
+        url('LotteMartHappyM.otf') format('opentype'),
+        url('LotteMartHappyM.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'LotteMartHappy';
+    font-style: normal;
+    font-weight: 700;
+    src: local('LotteMartHappy'),
+        url('LotteMartHappyB.woff2') format('woff2'), 
+        url('LotteMartHappyB.woff') format('woff'),
+        url('LotteMartHappyB.ttf') format('truetype'),
+        url('LotteMartHappyB.otf') format('opentype'),
+        url('LotteMartHappyB.eot') format('embedded-opentype');
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'KiRangHaeRang';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('KiRangHaeRang.woff2') format('woff2'), 
+        url('KiRangHaeRang.woff') format('woff'),
+        url('KiRangHaeRang.ttf') format('truetype'),
+        url('KiRangHaeRang.otf') format('opentype'),
+        url('KiRangHaeRang.eot') format('embedded-opentype');
+}

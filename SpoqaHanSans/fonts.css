@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: 100;
+    src: local('※'),
+        url('SpoqaHanSansThin.woff2') format('woff2'), 
+        url('SpoqaHanSansThin.woff') format('woff'),
+        url('SpoqaHanSansThin.ttf') format('truetype'),
+        url('SpoqaHanSansThin.otf') format('opentype'),
+        url('SpoqaHanSansThin.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('SpoqaHanSansLight.woff2') format('woff2'), 
+        url('SpoqaHanSansLight.woff') format('woff'),
+        url('SpoqaHanSansLight.ttf') format('truetype'),
+        url('SpoqaHanSansLight.otf') format('opentype'),
+        url('SpoqaHanSansLight.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('※'),
+        url('SpoqaHanSansRegular.woff2') format('woff2'), 
+        url('SpoqaHanSansRegular.woff') format('woff'),
+        url('SpoqaHanSansRegular.ttf') format('truetype'),
+        url('SpoqaHanSansRegular.otf') format('opentype'),
+        url('SpoqaHanSansRegular.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: 900;
+    src: local('※'),
+        url('SpoqaHanSansBold.woff2') format('woff2'), 
+        url('SpoqaHanSansBold.woff') format('woff'),
+        url('SpoqaHanSansBold.ttf') format('truetype'),
+        url('SpoqaHanSansBold.otf') format('opentype'),
+        url('SpoqaHanSansBold.eot') format('embedded-opentype');
+}

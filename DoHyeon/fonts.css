@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'DoHyeon';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('DoHyeon.woff2') format('woff2'), 
+        url('DoHyeon.woff') format('woff'),
+        url('DoHyeon.ttf') format('truetype'),
+        url('DoHyeon.otf') format('opentype'),
+        url('DoHyeon.eot') format('embedded-opentype');
+}

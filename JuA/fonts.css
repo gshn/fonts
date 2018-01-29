@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'JuA';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('JuA.woff2') format('woff2'), 
+        url('JuA.woff') format('woff'),
+        url('JuA.ttf') format('truetype'),
+        url('JuA.otf') format('opentype'),
+        url('JuA.eot') format('embedded-opentype');
+}

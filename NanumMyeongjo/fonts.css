@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('NanumMyeongjoR.woff2') format('woff2'), 
+        url('NanumMyeongjoR.woff') format('woff'),
+        url('NanumMyeongjoR.ttf') format('truetype'),
+        url('NanumMyeongjoR.otf') format('opentype'),
+        url('NanumMyeongjoR.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style: normal;
+    font-weight: 700;
+    src: local('※'),
+        url('NanumMyeongjoB.woff2') format('woff2'), 
+        url('NanumMyeongjoB.woff') format('woff'),
+        url('NanumMyeongjoB.ttf') format('truetype'),
+        url('NanumMyeongjoB.otf') format('opentype'),
+        url('NanumMyeongjoB.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style: normal;
+    font-weight: 900;
+    src: local('※'),
+        url('NanumMyeongjoEB.woff2') format('woff2'), 
+        url('NanumMyeongjoEB.woff') format('woff'),
+        url('NanumMyeongjoEB.ttf') format('truetype'),
+        url('NanumMyeongjoEB.otf') format('opentype'),
+        url('NanumMyeongjoEB.eot') format('embedded-opentype');
+}

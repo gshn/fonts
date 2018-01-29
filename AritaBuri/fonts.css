@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'AritaBuri';
+    font-style: normal;
+    font-weight: 100;
+    src: local('※'),
+        url('AritaBuriL.woff2') format('woff2'), 
+        url('AritaBuriL.woff') format('woff'),
+        url('AritaBuriL.ttf') format('truetype'),
+        url('AritaBuriL.otf') format('opentype'),
+        url('AritaBuriL.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'AritaBuri';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('AritaBuriM.woff2') format('woff2'), 
+        url('AritaBuriM.woff') format('woff'),
+        url('AritaBuriM.ttf') format('truetype'),
+        url('AritaBuriM.otf') format('opentype'),
+        url('AritaBuriM.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'AritaBuri';
+    font-style: normal;
+    font-weight: 700;
+    src: local('※'),
+        url('AritaBuriSB.woff2') format('woff2'), 
+        url('AritaBuriSB.woff') format('woff'),
+        url('AritaBuriSB.ttf') format('truetype'),
+        url('AritaBuriSB.otf') format('opentype'),
+        url('AritaBuriSB.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'AritaBuri';
+    font-style: normal;
+    font-weight: 900;
+    src: local('※'),
+        url('AritaBuriB.woff2') format('woff2'), 
+        url('AritaBuriB.woff') format('woff'),
+        url('AritaBuriB.ttf') format('truetype'),
+        url('AritaBuriB.otf') format('opentype'),
+        url('AritaBuriB.eot') format('embedded-opentype');
+}

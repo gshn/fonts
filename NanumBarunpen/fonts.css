@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'NanumBarunpen';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NanumBarunpen'),
+        url('NanumBarunpenR.woff2') format('woff2'), 
+        url('NanumBarunpenR.woff') format('woff'),
+        url('NanumBarunpenR.ttf') format('truetype'),
+        url('NanumBarunpenR.otf') format('opentype'),
+        url('NanumBarunpenR.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NanumBarunpen';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NanumBarunpen'),
+        url('NanumBarunpenB.woff2') format('woff2'), 
+        url('NanumBarunpenB.woff') format('woff'),
+        url('NanumBarunpenB.ttf') format('truetype'),
+        url('NanumBarunpenB.otf') format('opentype'),
+        url('NanumBarunpenB.eot') format('embedded-opentype');
+}

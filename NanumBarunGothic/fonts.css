@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 100;
+    src: local('NanumBarunGothic'),
+        url('NanumBarunGothicUL.woff2') format('woff2'), 
+        url('NanumBarunGothicUL.woff') format('woff'),
+        url('NanumBarunGothicUL.ttf') format('truetype'),
+        url('NanumBarunGothicUL.otf') format('opentype'),
+        url('NanumBarunGothicUL.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 300;
+    src: local('NanumBarunGothic'),
+        url('NanumBarunGothicL.woff2') format('woff2'), 
+        url('NanumBarunGothicL.woff') format('woff'),
+        url('NanumBarunGothicL.ttf') format('truetype'),
+        url('NanumBarunGothicL.otf') format('opentype'),
+        url('NanumBarunGothicL.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NanumBarunGothic'),
+        url('NanumBarunGothicR.woff2') format('woff2'), 
+        url('NanumBarunGothicR.woff') format('woff'),
+        url('NanumBarunGothicR.ttf') format('truetype'),
+        url('NanumBarunGothicR.otf') format('opentype'),
+        url('NanumBarunGothicR.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NanumBarunGothic'),
+        url('NanumBarunGothicB.woff2') format('woff2'), 
+        url('NanumBarunGothicB.woff') format('woff'),
+        url('NanumBarunGothicB.ttf') format('truetype'),
+        url('NanumBarunGothicB.otf') format('opentype'),
+        url('NanumBarunGothicB.eot') format('embedded-opentype');
+}

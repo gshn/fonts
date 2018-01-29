@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Godo';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Godo'),
+        url('GodoM.woff2') format('woff2'), 
+        url('GodoM.woff') format('woff'),
+        url('GodoM.ttf') format('truetype'),
+        url('GodoM.otf') format('opentype'),
+        url('GodoM.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'Godo';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Godo'),
+        url('GodoB.woff2') format('woff2'), 
+        url('GodoB.woff') format('woff'),
+        url('GodoB.ttf') format('truetype'),
+        url('GodoB.otf') format('opentype'),
+        url('GodoB.eot') format('embedded-opentype');
+}

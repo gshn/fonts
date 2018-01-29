@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'YeonSung';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('YeonSung.woff2') format('woff2'), 
+        url('YeonSung.woff') format('woff'),
+        url('YeonSung.ttf') format('truetype'),
+        url('YeonSung.otf') format('opentype'),
+        url('YeonSung.eot') format('embedded-opentype');
+}

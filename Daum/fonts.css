@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Daum';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Daum'),
+        url('DaumR.woff2') format('woff2'), 
+        url('DaumR.woff') format('woff'),
+        url('DaumR.ttf') format('truetype'),
+        url('DaumR.otf') format('opentype'),
+        url('DaumR.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'Daum';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Daum'),
+        url('DaumSB.woff2') format('woff2'), 
+        url('DaumSB.woff') format('woff'),
+        url('DaumSB.ttf') format('truetype'),
+        url('DaumSB.otf') format('opentype'),
+        url('DaumSB.eot') format('embedded-opentype');
+}

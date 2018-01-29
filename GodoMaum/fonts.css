@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'GodoMaum';
+    font-style: normal;
+    font-weight: 400;
+    src: local('GodoMaum'),
+        url('GodoMaum.woff2') format('woff2'), 
+        url('GodoMaum.woff') format('woff'),
+        url('GodoMaum.ttf') format('truetype'),
+        url('GodoMaum.otf') format('opentype'),
+        url('GodoMaum.eot') format('embedded-opentype');
+}

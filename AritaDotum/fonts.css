@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'AritaDotum';
+    font-style: normal;
+    font-weight: 100;
+    src: local('※'),
+        url('AritaDotumThin.woff2') format('woff2'), 
+        url('AritaDotumThin.woff') format('woff'),
+        url('AritaDotumThin.ttf') format('truetype'),
+        url('AritaDotumThin.otf') format('opentype'),
+        url('AritaDotumThin.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'AritaDotum';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('AritaDotumMedium.woff2') format('woff2'), 
+        url('AritaDotumMedium.woff') format('woff'),
+        url('AritaDotumMedium.ttf') format('truetype'),
+        url('AritaDotumMedium.otf') format('opentype'),
+        url('AritaDotumMedium.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'AritaDotum';
+    font-style: normal;
+    font-weight: 700;
+    src: local('※'),
+        url('AritaDotumSemiBold.woff2') format('woff2'), 
+        url('AritaDotumSemiBold.woff') format('woff'),
+        url('AritaDotumSemiBold.ttf') format('truetype'),
+        url('AritaDotumSemiBold.otf') format('opentype'),
+        url('AritaDotumSemiBold.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'AritaDotum';
+    font-style: normal;
+    font-weight: 900;
+    src: local('※'),
+        url('AritaDotumBold.woff2') format('woff2'), 
+        url('AritaDotumBold.woff') format('woff'),
+        url('AritaDotumBold.ttf') format('truetype'),
+        url('AritaDotumBold.otf') format('opentype'),
+        url('AritaDotumBold.eot') format('embedded-opentype');
+}
