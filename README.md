@@ -81,7 +81,7 @@
 
 [데모](https://gs.hn/fonts/HanNa11/demo.html)
 
-## 21. 주아 Jua
+## 21. 주아 JuA
 
 [데모](https://gs.hn/fonts/JuA/demo.html)
 
